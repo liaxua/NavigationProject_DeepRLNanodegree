@@ -36,4 +36,3 @@ Then, place the file in the p1_navigation/ folder in the DRLND GitHub repository
 * dqn_agent.py defines the agent class
 * model.py defines the QNetwork (the neural network model for approximating the action-value functions)  
 * Weights of the neural network are stored in model.pt 
-![image](https://user-images.githubusercontent.com/77559557/116030002-71450100-a60f-11eb-8146-40ae2246c40d.png)
